@@ -6,7 +6,7 @@ from torch.utils.tensorboard import SummaryWriter
 from WCSAC import WCSAC
 from ReplayBuffer import ReplayBuffer
 from makeVecEnv import makeEnv
-from utils import get_logger, parse_args
+from utils_wcsac import get_logger, parse_args
 import time
 import os
 
