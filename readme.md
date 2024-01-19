@@ -37,3 +37,12 @@ python eval_intersection.py
 python eval_parking.py
 python eval_racetrack.py
 ```
+
+### Results
+
+![img](https://github.com/Fizzfyz/AI3603_Project/blob/final/firgure/highway.gif)
+![img](https://github.com/Fizzfyz/AI3603_Project/blob/final/firgure/intersection.gif)
+![img](https://github.com/Fizzfyz/AI3603_Project/blob/final/firgure/racetrack.gif)
+![img](https://github.com/Fizzfyz/AI3603_Project/blob/final/firgure/parking.gif)
+
+
